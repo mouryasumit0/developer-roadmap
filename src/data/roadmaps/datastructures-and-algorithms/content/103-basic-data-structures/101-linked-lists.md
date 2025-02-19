@@ -5,4 +5,5 @@ Linked Lists are a type of data structure used for storing collections of data. 
 Learn more from the following links:
 
 - [@video@Introduction To Linked List](https://youtu.be/Nq7ok-OyEpg?si=xttaGoYKcoJ09Ln2)
-- [@video@Python Linked List](https://www.youtube.com/watch?v=qp8u-frRAnU&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=4&ab_channel=codebasics)
+- [@video@Python Linked List](https://www.youtube.com/watch?v=qp8u-frRAnU&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12&index=4&ab_channel=codebasics
+- [@video@Linked Lists for Technical Interviews](https://youtu.be/Hj_rA0dhr2I?si=gE9xn8bX_cGupF0z)
